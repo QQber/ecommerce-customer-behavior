@@ -43,7 +43,7 @@ E-Commerce is becoming more and more popular. Running an online shop helps compa
 * [Tableau Public](https://public.tableau.com/profile/qiqin3709#!/vizhome/CustomerBehaviourforonlineshops/Dashboard1)
 * [Raw Database](https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop)
 * [Powerpoint Presentation](https://github.com/QQber/ecommerce-customer-behavior/blob/main/Customers'%20Behaviour%20in%20an%20online%20shop.pptx)
-* [Wrapped data](https://github.com/QQber/ecommerce-customer-behavior/blob/main/sessions.csv)
+* [Cleaned data](https://github.com/QQber/ecommerce-customer-behavior/blob/main/sessions.csv)
 
 
 ## Contact

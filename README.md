@@ -26,10 +26,10 @@ customers' behavior when they visiting websites and help runners know more what 
    then for one order can have 2 sessions. It has also recorded time, price, products, user ID for each sessions.
 3. 2 machine learning moduls been made after data wrapping, but results showed there is no clear correlation between those information. The reason could be: customers are more depending on their subjective
    consciousness, or one month data is not enough
-4. Other interesting findings: A. 10 a.m. has the highest revenue over a day
-                               B. Monday has the highest revenue over a week
-                               C. 9% of customers contribute the whole revenue
-                               D. 20% top users contribute 56% revenue
+4. Other interesting findings: -. 10 a.m. has the highest revenue over a day
+                               -. Monday has the highest revenue over a week
+                               -. 9% of customers contribute the whole revenue
+                               -. 20% top users contribute 56% revenue
 
 ## Needs of this project
 

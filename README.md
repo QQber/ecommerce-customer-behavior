@@ -42,7 +42,7 @@ customers' behavior when they visiting websites and help runners know more what 
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Jupyter Notebook](https://github.com/QQber/classification-case-creditcard/blob/master/creditcards-classification.ipynb)
-* [Tableau Workbook](https://github.com/QQber/classification-case-creditcard/blob/master/Creditcards-Project.twb)
+* [Tableau Public](https://public.tableau.com/profile/qiqin3709#!/vizhome/CustomerBehaviourforonlineshops/Dashboard1)
 * [Raw Database](https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop)
 * [Powerpoint Presentation](https://github.com/QQber/classification-case-creditcard/blob/master/Presentation-Creditcard.pptx)
 

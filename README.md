@@ -45,7 +45,7 @@ customers' behavior when they visiting websites and help runners know more what 
 * [Tableau Public](https://public.tableau.com/profile/qiqin3709#!/vizhome/CustomerBehaviourforonlineshops/Dashboard1)
 * [Raw Database](https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop)
 * [Powerpoint Presentation](https://github.com/QQber/ecommerce-customer-behavior/blob/main/Customers'%20Behaviour%20in%20an%20online%20shop.pptx)
-
+* [Wrapped data](https://github.com/QQber/ecommerce-customer-behavior/blob/main/sessions.csv)
 
 
 ## Contact

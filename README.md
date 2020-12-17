@@ -22,11 +22,9 @@ customers' behavior when they visiting websites and help runners know more what 
 
 ## Project Description
 - The database is from a cosmetics online shop from Dec 2019
-- The raw data records what customers have clicked while in an online shop. It includes 4 different events: view, cart,remove from cart and purchase. If the customer leaves the computer during a session,
-   then for one order can have 2 sessions. It has also recorded time, price, products, user ID for each sessions.
-3. 2 machine learning moduls been made after data wrapping, but results showed there is no clear correlation between those information. The reason could be: customers are more depending on their subjective
-   consciousness, or one month data is not enough
-4. Other interesting findings: -. 10 a.m. has the highest revenue over a day
+- The raw data records what customers have clicked while in an online shop. It includes 4 different events: view, cart,remove from cart and purchase. If the   customer leaves the computer during a session, then for one order can have 2 sessions. It has also recorded time, price, products, user ID for each sessions.
+- 2 machine learning moduls been made after data wrapping, but results showed there is no clear correlation between those information. The reason could be: customers are more depending on their subjective consciousness, or one month data is not enough
+- Other interesting findings: -. 10 a.m. has the highest revenue over a day
                                -. Monday has the highest revenue over a week
                                -. 9% of customers contribute the whole revenue
                                -. 20% top users contribute 56% revenue

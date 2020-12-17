@@ -4,8 +4,7 @@ This project is a part of the [IRON HACK](http://https://www.ironhack.com/en) at
 #### Project Status: [Completed]
 
 ## Project Intro/Objective
-E-Commerce is becoming more and more popular. Running an online shop helps companies to achive more customers in the world, but at same time it's not an easy job. This Project is to have a look at
-customers' behavior when they visiting websites and help runners know more what they like.
+E-Commerce is becoming more and more popular. Running an online shop helps companies to achive more customers in the world, but at same time it's not an easy job. This Project is to have a look at customers' behavior when they visiting websites and help runners know more what they like. Database is provided by REES46 Marketing Platform
 
 ### Methods Used
 * Inferential Statistics
